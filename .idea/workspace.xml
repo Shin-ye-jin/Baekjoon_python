@@ -1,12 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="" />
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/입출력과 사칙연산/10171.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/입출력과 사칙연산/10172.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/입출력과 사칙연산/10430.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/입출력과 사칙연산/10869.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/입출력과 사칙연산/10926.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/입출력과 사칙연산/10998.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/입출력과 사칙연산/11382.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/입출력과 사칙연산/18108.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/입출력과 사칙연산/2588.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/입출력과 사칙연산/2557.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력과 사칙연산/1008.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Shin-ye-jin"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Shin-ye-jin/Baekjoon_python.git",
+    "accountId": "4fb05f3f-e08d-4b74-a8a3-a142b72e2da3"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7
 }]]></component>
@@ -16,6 +54,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.1008.executor": "Run",
+    "Python.10171.executor": "Run",
+    "Python.10172.executor": "Run",
+    "Python.10430.executor": "Run",
+    "Python.10869.executor": "Run",
+    "Python.10926.executor": "Run",
+    "Python.10998.executor": "Run",
+    "Python.11382.executor": "Run",
+    "Python.18108.executor": "Run",
+    "Python.2588.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
