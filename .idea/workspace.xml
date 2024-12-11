@@ -4,19 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/입출력과 사칙연산/10171.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/입출력과 사칙연산/10172.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/입출력과 사칙연산/10430.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/입출력과 사칙연산/10869.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/입출력과 사칙연산/10926.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/입출력과 사칙연산/10998.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/입출력과 사칙연산/11382.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/입출력과 사칙연산/18108.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/입출력과 사칙연산/2588.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="1단계 완료">
+      <change afterPath="$PROJECT_DIR$/조건문/1330.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/조건문/14681.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/조건문/2480.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/조건문/2525.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/조건문/2753.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/조건문/2884.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/조건문/9498.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/입출력과 사칙연산/2557.py" beforeDir="false" afterPath="$PROJECT_DIR$/입출력과 사칙연산/1008.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,21 +29,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Shin-ye-jin"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Shin-ye-jin&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Shin-ye-jin/Baekjoon_python.git",
-    "accountId": "4fb05f3f-e08d-4b74-a8a3-a142b72e2da3"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Shin-ye-jin/Baekjoon_python.git&quot;,
+    &quot;accountId&quot;: &quot;4fb05f3f-e08d-4b74-a8a3-a142b72e2da3&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2q1MelPaXHSP04NxML2lK9b0AUJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -64,8 +60,15 @@
     "Python.10926.executor": "Run",
     "Python.10998.executor": "Run",
     "Python.11382.executor": "Run",
+    "Python.1330.executor": "Run",
+    "Python.14681.executor": "Run",
     "Python.18108.executor": "Run",
+    "Python.2480.executor": "Run",
+    "Python.2525.executor": "Run",
     "Python.2588.executor": "Run",
+    "Python.2753.executor": "Run",
+    "Python.2884.executor": "Run",
+    "Python.9498.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -86,6 +89,19 @@
       <option name="presentableId" value="Default" />
       <updated>1733825726539</updated>
     </task>
+    <task id="LOCAL-00001" summary="1단계 완료">
+      <option name="closed" value="true" />
+      <created>1733828681973</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1733828681973</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1단계 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="1단계 완료" />
   </component>
 </project>
