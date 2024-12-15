@@ -4,21 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="2단계 완료">
-      <change afterPath="$PROJECT_DIR$/반복문/10950.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/반복문/10951.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/반복문/10952.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/반복문/11021.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/반복문/11022.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/반복문/15552.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/반복문/2438.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/반복문/2439.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/반복문/25304.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/반복문/25314.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/반복문/2739.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/반복문/8393.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="3단계 완료" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -122,12 +108,21 @@
       <option name="project" value="LOCAL" />
       <updated>1733912819997</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3단계 완료">
+      <option name="closed" value="true" />
+      <created>1734163139041</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734163139041</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1단계 완료" />
     <MESSAGE value="2단계 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="2단계 완료" />
+    <MESSAGE value="3단계 완료" />
+    <option name="LAST_COMMIT_MESSAGE" value="3단계 완료" />
   </component>
 </project>
