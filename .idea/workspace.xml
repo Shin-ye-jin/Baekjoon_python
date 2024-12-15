@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="3단계 완료" />
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="위치 조정">
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/1차원 배열/10807.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/1차원 배열/10810.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/1차원 배열/10811.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/1차원 배열/10813.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/1차원 배열/10818.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/1차원 배열/10871.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/1차원 배열/1546.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/1차원 배열/2562.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/1차원 배열/3052.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/1차원 배열/5597.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +59,13 @@
     "Python.10171.executor": "Run",
     "Python.10172.executor": "Run",
     "Python.10430.executor": "Run",
+    "Python.10807.executor": "Run",
+    "Python.10810.executor": "Run",
+    "Python.10811.executor": "Run",
+    "Python.10813.executor": "Run",
+    "Python.10818.executor": "Run",
     "Python.10869.executor": "Run",
+    "Python.10871.executor": "Run",
     "Python.10926.executor": "Run",
     "Python.10950.executor": "Run",
     "Python.10951.executor": "Run",
@@ -58,6 +76,7 @@
     "Python.11382.executor": "Run",
     "Python.1330.executor": "Run",
     "Python.14681.executor": "Run",
+    "Python.1546.executor": "Run",
     "Python.15552.executor": "Run",
     "Python.18108.executor": "Run",
     "Python.2438.executor": "Run",
@@ -66,16 +85,24 @@
     "Python.2525.executor": "Run",
     "Python.25304.executor": "Run",
     "Python.25314.executor": "Run",
+    "Python.2562.executor": "Run",
     "Python.2588.executor": "Run",
     "Python.2739.executor": "Run",
     "Python.2753.executor": "Run",
     "Python.2884.executor": "Run",
+    "Python.3052.executor": "Run",
+    "Python.5597.executor": "Run",
     "Python.8393.executor": "Run",
     "Python.9498.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\S510U\PycharmProjects\Baekjoon_python\단계별로 풀어보기" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -116,13 +143,22 @@
       <option name="project" value="LOCAL" />
       <updated>1734163139041</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="위치 조정">
+      <option name="closed" value="true" />
+      <created>1734240266198</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734240266198</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1단계 완료" />
     <MESSAGE value="2단계 완료" />
     <MESSAGE value="3단계 완료" />
-    <option name="LAST_COMMIT_MESSAGE" value="3단계 완료" />
+    <MESSAGE value="위치 조정" />
+    <option name="LAST_COMMIT_MESSAGE" value="위치 조정" />
   </component>
 </project>
