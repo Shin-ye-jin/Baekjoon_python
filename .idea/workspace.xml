@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="4단계 종료">
-      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/문자열/10809.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/문자열/11654.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/문자열/11720.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/문자열/2675.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/문자열/2743.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/문자열/27866.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/문자열/9086.py" afterDir="false" />
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="5단계">
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/문자열/1152.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/문자열/2908.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/문자열/5622.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,6 +68,7 @@
     "Python.11021.executor": "Run",
     "Python.11022.executor": "Run",
     "Python.11382.executor": "Run",
+    "Python.1152.executor": "Run",
     "Python.11654.executor": "Run",
     "Python.11720.executor": "Run",
     "Python.1330.executor": "Run",
@@ -93,6 +90,7 @@
     "Python.2753.executor": "Run",
     "Python.27866.executor": "Run",
     "Python.2884.executor": "Run",
+    "Python.2908.executor": "Run",
     "Python.3052.executor": "Run",
     "Python.5597.executor": "Run",
     "Python.8393.executor": "Run",
@@ -163,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734244274321</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="5단계">
+      <option name="closed" value="true" />
+      <created>1734348770068</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734348770068</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -172,6 +178,7 @@
     <MESSAGE value="3단계 완료" />
     <MESSAGE value="위치 조정" />
     <MESSAGE value="4단계 종료" />
-    <option name="LAST_COMMIT_MESSAGE" value="4단계 종료" />
+    <MESSAGE value="5단계" />
+    <option name="LAST_COMMIT_MESSAGE" value="5단계" />
   </component>
 </project>
