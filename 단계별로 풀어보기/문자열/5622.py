@@ -10,3 +10,6 @@ for i in range(len(m)):
             cnt=cnt+matrix.index(j)+3 # 인덱스에 3을 더해서 구함
 
 print(cnt)
+
+# 포함되는지 확인
+# 인덱스에 3을 더하기
