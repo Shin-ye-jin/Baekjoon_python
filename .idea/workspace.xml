@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="2차원 배열 - 1">
-      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/심화 1/2941.py" afterDir="false" />
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="6단계 - 1">
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/2차원 배열/10798.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
     "Python.10171.executor": "Run",
     "Python.10172.executor": "Run",
     "Python.10430.executor": "Run",
+    "Python.10798.executor": "Run",
     "Python.10807.executor": "Run",
     "Python.10809.executor": "Run",
     "Python.10810.executor": "Run",
@@ -217,7 +218,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735479809914</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="6단계 - 1">
+      <option name="closed" value="true" />
+      <created>1735483040273</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1735483040273</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -232,6 +241,7 @@
     <MESSAGE value="6단계" />
     <MESSAGE value="수정" />
     <MESSAGE value="2차원 배열 - 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="2차원 배열 - 1" />
+    <MESSAGE value="6단계 - 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="6단계 - 1" />
   </component>
 </project>
