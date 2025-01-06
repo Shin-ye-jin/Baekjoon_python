@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="8단계">
-      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/일반 수학 1/2720.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/일반 수학 1/2903.py" afterDir="false" />
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="8단계 - 1">
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/약수, 배수와 소수/1978.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/약수, 배수와 소수/2501.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/약수, 배수와 소수/2581.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/약수, 배수와 소수/5086.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/약수, 배수와 소수/9506.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,16 +82,19 @@
     "Python.1546.executor": "Run",
     "Python.15552.executor": "Run",
     "Python.18108.executor": "Run",
+    "Python.1978.executor": "Run",
     "Python.2438.executor": "Run",
     "Python.2439.executor": "Run",
     "Python.2444.executor": "Run",
     "Python.2480.executor": "Run",
+    "Python.2501.executor": "Run",
     "Python.25083.executor": "Run",
     "Python.2525.executor": "Run",
     "Python.25304.executor": "Run",
     "Python.25314.executor": "Run",
     "Python.2562.executor": "Run",
     "Python.2566.executor": "Run",
+    "Python.2581.executor": "Run",
     "Python.2588.executor": "Run",
     "Python.2675.executor": "Run",
     "Python.2720.executor": "Run",
@@ -104,11 +110,13 @@
     "Python.2941.executor": "Run",
     "Python.3003.executor": "Run",
     "Python.3052.executor": "Run",
+    "Python.5086.executor": "Run",
     "Python.5597.executor": "Run",
     "Python.5622.executor": "Run",
     "Python.8393.executor": "Run",
     "Python.9086.executor": "Run",
     "Python.9498.executor": "Run",
+    "Python.9506.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
@@ -246,7 +254,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736073783278</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="8단계 - 1">
+      <option name="closed" value="true" />
+      <created>1736166606882</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1736166606882</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -264,6 +280,7 @@
     <MESSAGE value="6단계 - 1" />
     <MESSAGE value="7단계 - 1" />
     <MESSAGE value="8단계" />
-    <option name="LAST_COMMIT_MESSAGE" value="8단계" />
+    <MESSAGE value="8단계 - 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="8단계 - 1" />
   </component>
 </project>
