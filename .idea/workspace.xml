@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="7단계 - 1">
-      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/일반 수학 1/2745.py" afterDir="false" />
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="8단계">
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/일반 수학 1/2720.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/일반 수학 1/2903.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,6 +91,7 @@
     "Python.2566.executor": "Run",
     "Python.2588.executor": "Run",
     "Python.2675.executor": "Run",
+    "Python.2720.executor": "Run",
     "Python.2738.executor": "Run",
     "Python.2739.executor": "Run",
     "Python.2743.executor": "Run",
@@ -97,6 +99,7 @@
     "Python.2753.executor": "Run",
     "Python.27866.executor": "Run",
     "Python.2884.executor": "Run",
+    "Python.2903.executor": "Run",
     "Python.2908.executor": "Run",
     "Python.2941.executor": "Run",
     "Python.3003.executor": "Run",
@@ -235,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736072474395</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="8단계">
+      <option name="closed" value="true" />
+      <created>1736073783278</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1736073783278</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -252,6 +263,7 @@
     <MESSAGE value="2차원 배열 - 1" />
     <MESSAGE value="6단계 - 1" />
     <MESSAGE value="7단계 - 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="7단계 - 1" />
+    <MESSAGE value="8단계" />
+    <option name="LAST_COMMIT_MESSAGE" value="8단계" />
   </component>
 </project>
