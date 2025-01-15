@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="9단계">
-      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/약수, 배수와 소수/11653.py" afterDir="false" />
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="9단계 종료">
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/기하 직사각형과 삼각형/1085.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/기하 직사각형과 삼각형/27323.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/단계별로 풀어보기/약수, 배수와 소수/2581.py" beforeDir="false" afterPath="$PROJECT_DIR$/단계별로 풀어보기/약수, 배수와 소수/2581.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +58,7 @@
     "Python.10811.executor": "Run",
     "Python.10813.executor": "Run",
     "Python.10818.executor": "Run",
+    "Python.1085.executor": "Run",
     "Python.10869.executor": "Run",
     "Python.10871.executor": "Run",
     "Python.10926.executor": "Run",
@@ -96,6 +97,7 @@
     "Python.2588.executor": "Run",
     "Python.2675.executor": "Run",
     "Python.2720.executor": "Run",
+    "Python.27323.executor": "Run",
     "Python.2738.executor": "Run",
     "Python.2739.executor": "Run",
     "Python.2743.executor": "Run",
@@ -268,7 +270,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736171027100</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="9단계 종료">
+      <option name="closed" value="true" />
+      <created>1736942705711</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1736942705711</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -288,6 +298,7 @@
     <MESSAGE value="8단계" />
     <MESSAGE value="8단계 - 1" />
     <MESSAGE value="9단계" />
-    <option name="LAST_COMMIT_MESSAGE" value="9단계" />
+    <MESSAGE value="9단계 종료" />
+    <option name="LAST_COMMIT_MESSAGE" value="9단계 종료" />
   </component>
 </project>
