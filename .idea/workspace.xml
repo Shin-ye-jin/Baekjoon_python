@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="9단계 종료">
-      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/기하 직사각형과 삼각형/1085.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/기하 직사각형과 삼각형/27323.py" afterDir="false" />
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="10단계 -1">
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/기하 직사각형과 삼각형/10101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/기하 직사각형과 삼각형/14215.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/기하 직사각형과 삼각형/15894.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/기하 직사각형과 삼각형/3009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/기하 직사각형과 삼각형/5073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/기하 직사각형과 삼각형/9063.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +52,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.1008.executor": "Run",
+    "Python.10101.executor": "Run",
     "Python.10171.executor": "Run",
     "Python.10172.executor": "Run",
     "Python.10430.executor": "Run",
@@ -77,9 +82,11 @@
     "Python.11718.executor": "Run",
     "Python.11720.executor": "Run",
     "Python.1330.executor": "Run",
+    "Python.14215.executor": "Run",
     "Python.14681.executor": "Run",
     "Python.1546.executor": "Run",
     "Python.15552.executor": "Run",
+    "Python.15894.executor": "Run",
     "Python.18108.executor": "Run",
     "Python.1978.executor": "Run",
     "Python.2438.executor": "Run",
@@ -109,11 +116,14 @@
     "Python.2908.executor": "Run",
     "Python.2941.executor": "Run",
     "Python.3003.executor": "Run",
+    "Python.3009.executor": "Run",
     "Python.3052.executor": "Run",
+    "Python.5073.executor": "Run",
     "Python.5086.executor": "Run",
     "Python.5597.executor": "Run",
     "Python.5622.executor": "Run",
     "Python.8393.executor": "Run",
+    "Python.9063.executor": "Run",
     "Python.9086.executor": "Run",
     "Python.9498.executor": "Run",
     "Python.9506.executor": "Run",
@@ -278,7 +288,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736942705711</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="10단계 -1">
+      <option name="closed" value="true" />
+      <created>1736946078791</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1736946078791</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -299,6 +317,7 @@
     <MESSAGE value="8단계 - 1" />
     <MESSAGE value="9단계" />
     <MESSAGE value="9단계 종료" />
-    <option name="LAST_COMMIT_MESSAGE" value="9단계 종료" />
+    <MESSAGE value="10단계 -1" />
+    <option name="LAST_COMMIT_MESSAGE" value="10단계 -1" />
   </component>
 </project>
