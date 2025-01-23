@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="10단계 -1">
-      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/기하 직사각형과 삼각형/10101.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/기하 직사각형과 삼각형/14215.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/기하 직사각형과 삼각형/15894.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/기하 직사각형과 삼각형/3009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/기하 직사각형과 삼각형/5073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/단계별로 풀어보기/기하 직사각형과 삼각형/9063.py" afterDir="false" />
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="10단계 클리어">
+      <change afterPath="$PROJECT_DIR$/CLASS/1/2475.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLASS/1/31403.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,6 +88,7 @@
     "Python.2438.executor": "Run",
     "Python.2439.executor": "Run",
     "Python.2444.executor": "Run",
+    "Python.2475.executor": "Run",
     "Python.2480.executor": "Run",
     "Python.2501.executor": "Run",
     "Python.25083.executor": "Run",
@@ -118,6 +115,7 @@
     "Python.3003.executor": "Run",
     "Python.3009.executor": "Run",
     "Python.3052.executor": "Run",
+    "Python.31403.executor": "Run",
     "Python.5073.executor": "Run",
     "Python.5086.executor": "Run",
     "Python.5597.executor": "Run",
@@ -296,7 +294,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736946078791</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="10단계 클리어">
+      <option name="closed" value="true" />
+      <created>1737361752806</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1737361752806</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -318,6 +324,7 @@
     <MESSAGE value="9단계" />
     <MESSAGE value="9단계 종료" />
     <MESSAGE value="10단계 -1" />
-    <option name="LAST_COMMIT_MESSAGE" value="10단계 -1" />
+    <MESSAGE value="10단계 클리어" />
+    <option name="LAST_COMMIT_MESSAGE" value="10단계 클리어" />
   </component>
 </project>
