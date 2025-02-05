@@ -1,10 +1,12 @@
 # 직각삼각형
 while True:
-    a,b,c=map(int,input().split())
-    if a==0 and b==0 and c==0:
+    matrix = list(map(int,input().split()))
+    if matrix[0]==0 and matrix[1]==0 and matrix[2]==0:
         break
-
-    if a**2 + b**2 == c**2:
+    matrix.sort()
+    if matrix[0]**2 + matrix[1]**2 == matrix[2]**2:
         print("right")
     else:
         print("wrong")
+
+# 리스트를 사용하라!
