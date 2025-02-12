@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="CLASS2 - 1">
-      <change afterPath="$PROJECT_DIR$/CLASS/2/2231.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CLASS/2/30802.py" afterDir="false" />
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="CLASS2 - 2">
+      <change afterPath="$PROJECT_DIR$/CLASS/2/1259.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLASS/2/15829.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLASS/2/2292.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLASS/2/2609.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLASS/2/2775.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLASS/2/2798.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CLASS/2/4153.py" beforeDir="false" afterPath="$PROJECT_DIR$/CLASS/2/4153.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,11 +82,13 @@
     "Python.11654.executor": "Run",
     "Python.11718.executor": "Run",
     "Python.11720.executor": "Run",
+    "Python.1259.executor": "Run",
     "Python.1330.executor": "Run",
     "Python.14215.executor": "Run",
     "Python.14681.executor": "Run",
     "Python.1546.executor": "Run",
     "Python.15552.executor": "Run",
+    "Python.15829.executor": "Run",
     "Python.15894.executor": "Run",
     "Python.18108.executor": "Run",
     "Python.1978.executor": "Run",
@@ -103,6 +108,7 @@
     "Python.2577.executor": "Run",
     "Python.2581.executor": "Run",
     "Python.2588.executor": "Run",
+    "Python.2609.executor": "Run",
     "Python.2675.executor": "Run",
     "Python.2720.executor": "Run",
     "Python.27323.executor": "Run",
@@ -112,6 +118,7 @@
     "Python.2745.executor": "Run",
     "Python.2753.executor": "Run",
     "Python.27866.executor": "Run",
+    "Python.2798.executor": "Run",
     "Python.2884.executor": "Run",
     "Python.2903.executor": "Run",
     "Python.2908.executor": "Run",
@@ -333,7 +340,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738164609179</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="CLASS2 - 2">
+      <option name="closed" value="true" />
+      <created>1738766962828</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1738766962828</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -359,6 +374,7 @@
     <MESSAGE value="CLASS1 -1" />
     <MESSAGE value="CLASS1 - clear" />
     <MESSAGE value="CLASS2 - 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="CLASS2 - 1" />
+    <MESSAGE value="CLASS2 - 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="CLASS2 - 2" />
   </component>
 </project>
