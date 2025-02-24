@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="CLASS2 - 2" />
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="CLASS2 - 확인">
+      <change afterPath="$PROJECT_DIR$/CLASS/2/10989.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLASS/2/11050.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLASS/2/2869.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CLASS/2/28702.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CLASS/2/2775.py" beforeDir="false" afterPath="$PROJECT_DIR$/CLASS/2/2775.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,12 +33,12 @@
     &quot;assignee&quot;: &quot;Shin-ye-jin&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Shin-ye-jin/Baekjoon_python.git",
-    "accountId": "32aab0f1-e27e-4317-a23d-ccdaa6859a26"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Shin-ye-jin/Baekjoon_python.git&quot;,
+    &quot;accountId&quot;: &quot;32aab0f1-e27e-4317-a23d-ccdaa6859a26&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -64,9 +71,11 @@
     "Python.10951.executor": "Run",
     "Python.10952.executor": "Run",
     "Python.10988.executor": "Run",
+    "Python.10989.executor": "Run",
     "Python.10998.executor": "Run",
     "Python.11021.executor": "Run",
     "Python.11022.executor": "Run",
+    "Python.11050.executor": "Run",
     "Python.11382.executor": "Run",
     "Python.1152.executor": "Run",
     "Python.1157.executor": "Run",
@@ -109,8 +118,10 @@
     "Python.2743.executor": "Run",
     "Python.2745.executor": "Run",
     "Python.2753.executor": "Run",
+    "Python.2775.executor": "Run",
     "Python.27866.executor": "Run",
     "Python.2798.executor": "Run",
+    "Python.2869.executor": "Run",
     "Python.2884.executor": "Run",
     "Python.2903.executor": "Run",
     "Python.2908.executor": "Run",
@@ -343,7 +354,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738766962828</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="CLASS2 - 확인">
+      <option name="closed" value="true" />
+      <created>1739364309065</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1739364309065</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -370,6 +389,7 @@
     <MESSAGE value="CLASS1 - clear" />
     <MESSAGE value="CLASS2 - 1" />
     <MESSAGE value="CLASS2 - 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="CLASS2 - 2" />
+    <MESSAGE value="CLASS2 - 확인" />
+    <option name="LAST_COMMIT_MESSAGE" value="CLASS2 - 확인" />
   </component>
 </project>
