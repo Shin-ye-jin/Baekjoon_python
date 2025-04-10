@@ -4,17 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="CLASS2 - sliver1">
-      <change afterPath="$PROJECT_DIR$/CLASS/2/1018.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CLASS/2/10814.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CLASS/2/11650.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CLASS/2/11651.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CLASS/2/1920.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CLASS/2/2164.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CLASS/2/2839.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CLASS/2/7568.py" afterDir="false" />
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="CLASS2 - sliver2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CLASS/2/1436.py" beforeDir="false" afterPath="$PROJECT_DIR$/CLASS/2/1436.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,6 +150,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\PycharmProjects\CLASS\2-Silver" />
       <recent name="C:\Users\S510U\PycharmProjects\Baekjoon_python\단계별로 풀어보기" />
     </key>
   </component>
@@ -386,11 +378,18 @@
       <option name="project" value="LOCAL" />
       <updated>1742224975015</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="CLASS2 - sliver2">
+      <option name="closed" value="true" />
+      <created>1743420122663</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1743420122663</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2단계 완료" />
     <MESSAGE value="3단계 완료" />
     <MESSAGE value="위치 조정" />
     <MESSAGE value="4단계 종료" />
@@ -415,6 +414,7 @@
     <MESSAGE value="CLASS2 - 확인" />
     <MESSAGE value="CLASS2 - 4" />
     <MESSAGE value="CLASS2 - sliver1" />
-    <option name="LAST_COMMIT_MESSAGE" value="CLASS2 - sliver1" />
+    <MESSAGE value="CLASS2 - sliver2" />
+    <option name="LAST_COMMIT_MESSAGE" value="CLASS2 - sliver2" />
   </component>
 </project>
