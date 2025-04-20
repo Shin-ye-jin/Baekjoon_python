@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="CLASS2 - sliver2">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="CLASS2 - sliver3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -386,11 +384,18 @@
       <option name="project" value="LOCAL" />
       <updated>1743420122663</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="CLASS2 - sliver3">
+      <option name="closed" value="true" />
+      <created>1744285483247</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1744285483247</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3단계 완료" />
     <MESSAGE value="위치 조정" />
     <MESSAGE value="4단계 종료" />
     <MESSAGE value="5단계" />
@@ -415,6 +420,7 @@
     <MESSAGE value="CLASS2 - 4" />
     <MESSAGE value="CLASS2 - sliver1" />
     <MESSAGE value="CLASS2 - sliver2" />
-    <option name="LAST_COMMIT_MESSAGE" value="CLASS2 - sliver2" />
+    <MESSAGE value="CLASS2 - sliver3" />
+    <option name="LAST_COMMIT_MESSAGE" value="CLASS2 - sliver3" />
   </component>
 </project>
