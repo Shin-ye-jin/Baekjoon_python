@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="알고리즘기초1 - 1">
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="BronzeIII - 1">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,10 +57,12 @@
     "Python.10810.executor": "Run",
     "Python.10811.executor": "Run",
     "Python.10813.executor": "Run",
+    "Python.10817.executor": "Run",
     "Python.10818.executor": "Run",
     "Python.1085.executor": "Run",
     "Python.10869.executor": "Run",
     "Python.10871.executor": "Run",
+    "Python.10872.executor": "Run",
     "Python.10926.executor": "Run",
     "Python.10950.executor": "Run",
     "Python.10951.executor": "Run",
@@ -81,6 +83,7 @@
     "Python.1181.executor": "Run",
     "Python.1259.executor": "Run",
     "Python.1330.executor": "Run",
+    "Python.1406.executor": "Run",
     "Python.14215.executor": "Run",
     "Python.14681.executor": "Run",
     "Python.1546.executor": "Run",
@@ -93,6 +96,7 @@
     "Python.2231.executor": "Run",
     "Python.2438.executor": "Run",
     "Python.2439.executor": "Run",
+    "Python.2441.executor": "Run",
     "Python.2444.executor": "Run",
     "Python.2475.executor": "Run",
     "Python.2480.executor": "Run",
@@ -146,6 +150,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/fx132/PycharmProjects/Atcoder_Python",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -411,12 +416,26 @@
       <option name="project" value="LOCAL" />
       <updated>1747149438998</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="알고리즘기초1 - 2">
+      <option name="closed" value="true" />
+      <created>1747568594926</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1747568594926</updated>
+    </task>
+    <task id="LOCAL-00032" summary="BronzeIII - 1">
+      <option name="closed" value="true" />
+      <created>1747569676663</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1747569676663</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="5단계" />
-    <MESSAGE value="5단계 -1" />
     <MESSAGE value="5단계 -2" />
     <MESSAGE value="6단계" />
     <MESSAGE value="수정" />
@@ -440,6 +459,8 @@
     <MESSAGE value="CLASS2 - sliver3" />
     <MESSAGE value="CLASS2 - sliver4" />
     <MESSAGE value="알고리즘기초1 - 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘기초1 - 1" />
+    <MESSAGE value="알고리즘기초1 - 2" />
+    <MESSAGE value="BronzeIII - 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="BronzeIII - 1" />
   </component>
 </project>
