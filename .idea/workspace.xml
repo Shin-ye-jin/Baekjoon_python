@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="BronzeIII - 2">
-      <change afterPath="$PROJECT_DIR$/Bronze III/11719.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bronze III/2443.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bronze III/2445.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="BronzeIII - 3">
+      <change afterPath="$PROJECT_DIR$/알고리즘 기초1/10866.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,6 +61,7 @@
     "Python.10817.executor": "Run",
     "Python.10818.executor": "Run",
     "Python.1085.executor": "Run",
+    "Python.10866.executor": "Run",
     "Python.10869.executor": "Run",
     "Python.10871.executor": "Run",
     "Python.10872.executor": "Run",
@@ -475,11 +473,18 @@
       <option name="project" value="LOCAL" />
       <updated>1747745144642</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="BronzeIII - 3">
+      <option name="closed" value="true" />
+      <created>1748181390993</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1748181390993</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2차원 배열 - 1" />
     <MESSAGE value="6단계 - 1" />
     <MESSAGE value="7단계 - 1" />
     <MESSAGE value="8단계" />
@@ -504,6 +509,7 @@
     <MESSAGE value="BronzeIII - 수정" />
     <MESSAGE value="알고리즘기초1 - 3" />
     <MESSAGE value="BronzeIII - 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="BronzeIII - 2" />
+    <MESSAGE value="BronzeIII - 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="BronzeIII - 3" />
   </component>
 </project>
