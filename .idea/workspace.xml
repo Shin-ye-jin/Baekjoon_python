@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="BronzeIII - 6">
-      <change afterPath="$PROJECT_DIR$/24265.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bronze III/24264.py" afterDir="false" />
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="BronzeIII - 7">
+      <change afterPath="$PROJECT_DIR$/알고리즘 기초1-2/10799.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +54,7 @@
     "Python.10250.executor": "Run",
     "Python.10430.executor": "Run",
     "Python.10798.executor": "Run",
+    "Python.10799.executor": "Run",
     "Python.10807.executor": "Run",
     "Python.10809.executor": "Run",
     "Python.10810.executor": "Run",
@@ -67,6 +67,7 @@
     "Python.10869.executor": "Run",
     "Python.10871.executor": "Run",
     "Python.10872.executor": "Run",
+    "Python.10886.executor": "Run",
     "Python.10926.executor": "Run",
     "Python.10950.executor": "Run",
     "Python.10951.executor": "Run",
@@ -177,6 +178,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\PycharmProjects\Bronze III" />
       <recent name="F:\PycharmProjects\CLASS\2-Silver" />
       <recent name="C:\Users\S510U\PycharmProjects\Baekjoon_python\단계별로 풀어보기" />
     </key>
@@ -549,11 +551,26 @@
       <option name="project" value="LOCAL" />
       <updated>1748779162772</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="BronzeIII - 7">
+      <option name="closed" value="true" />
+      <created>1749038273786</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1749038273786</updated>
+    </task>
+    <task id="LOCAL-00046" summary="BronzeIII - 7">
+      <option name="closed" value="true" />
+      <created>1749038309795</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1749038309795</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="10단계 클리어" />
     <MESSAGE value="CLASS1 -1" />
     <MESSAGE value="CLASS1 - clear" />
     <MESSAGE value="CLASS2 - 1" />
@@ -578,6 +595,7 @@
     <MESSAGE value="BronzeIII - 5" />
     <MESSAGE value="알고리즘기초1-2 - 1" />
     <MESSAGE value="BronzeIII - 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="BronzeIII - 6" />
+    <MESSAGE value="BronzeIII - 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="BronzeIII - 7" />
   </component>
 </project>
