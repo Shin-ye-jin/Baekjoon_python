@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="알고리즘기초1-2 - 1">
-      <change afterPath="$PROJECT_DIR$/Bronze III/2455.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bronze III/2522.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bronze III/2576.py" afterDir="false" />
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="BronzeIII - 6">
+      <change afterPath="$PROJECT_DIR$/24265.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bronze III/24264.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,6 +103,7 @@
     "Python.18108.executor": "Run",
     "Python.1978.executor": "Run",
     "Python.2231.executor": "Run",
+    "Python.24264.executor": "Run",
     "Python.2438.executor": "Run",
     "Python.2439.executor": "Run",
     "Python.2441.executor": "Run",
@@ -541,11 +541,18 @@
       <option name="project" value="LOCAL" />
       <updated>1748778435889</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="BronzeIII - 6">
+      <option name="closed" value="true" />
+      <created>1748779162772</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1748779162772</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="10단계 -1" />
     <MESSAGE value="10단계 클리어" />
     <MESSAGE value="CLASS1 -1" />
     <MESSAGE value="CLASS1 - clear" />
@@ -570,6 +577,7 @@
     <MESSAGE value="알고리즘기초1-2 -1" />
     <MESSAGE value="BronzeIII - 5" />
     <MESSAGE value="알고리즘기초1-2 - 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘기초1-2 - 1" />
+    <MESSAGE value="BronzeIII - 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="BronzeIII - 6" />
   </component>
 </project>
