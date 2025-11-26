@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="알고리즘 기초1-2 - 골드">
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="알고리즘 기초1-2 - 골드(s1)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/알고리즘 기초1-2/17298.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 기초1-2/17298.py" afterDir="false" />
     </list>
@@ -204,14 +204,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733825726539</updated>
-    </task>
-    <task id="LOCAL-00001" summary="1단계 완료">
-      <option name="closed" value="true" />
-      <created>1733828681973</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1733828681973</updated>
     </task>
     <task id="LOCAL-00002" summary="2단계 완료">
       <option name="closed" value="true" />
@@ -597,11 +589,18 @@
       <option name="project" value="LOCAL" />
       <updated>1750165121475</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="알고리즘 기초1-2 - 골드(s1)">
+      <option name="closed" value="true" />
+      <created>1763981278049</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1763981278049</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CLASS2 - 2" />
     <MESSAGE value="CLASS2 - 확인" />
     <MESSAGE value="CLASS2 - 4" />
     <MESSAGE value="CLASS2 - sliver1" />
@@ -626,6 +625,7 @@
     <MESSAGE value="알고리즘기초1-2 - 2" />
     <MESSAGE value="BronzeIII - 8" />
     <MESSAGE value="알고리즘 기초1-2 - 골드" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 기초1-2 - 골드" />
+    <MESSAGE value="알고리즘 기초1-2 - 골드(s1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 기초1-2 - 골드(s1)" />
   </component>
 </project>
