@@ -4,9 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="알고리즘 기초1-2 - 골드(s1)">
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="알고리즘 기초1(201) -  3">
+      <change afterPath="$PROJECT_DIR$/알고리즘 기초1(201)/17298.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/알고리즘 기초1-2/17298.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 기초1-2/17298.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/알고리즘 기초1-2/10799.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 기초1(201)/10799.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/알고리즘 기초1-2/17298.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/알고리즘 기초1-2/17413.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 기초1(201)/17413.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/알고리즘 기초1/10866.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 기초1(200)/10866.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/알고리즘 기초1/1158.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 기초1(200)/1158.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/알고리즘 기초1/1406.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 기초1(200)/1406.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/알고리즘 기초1/9093.py" beforeDir="false" afterPath="$PROJECT_DIR$/알고리즘 기초1(200)/9093.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,14 +211,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733825726539</updated>
-    </task>
-    <task id="LOCAL-00002" summary="2단계 완료">
-      <option name="closed" value="true" />
-      <created>1733912819997</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1733912819997</updated>
     </task>
     <task id="LOCAL-00003" summary="3단계 완료">
       <option name="closed" value="true" />
@@ -597,11 +596,18 @@
       <option name="project" value="LOCAL" />
       <updated>1763981278049</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="알고리즘 기초1(201) -  3">
+      <option name="closed" value="true" />
+      <created>1764158264777</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1764158264777</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CLASS2 - 확인" />
     <MESSAGE value="CLASS2 - 4" />
     <MESSAGE value="CLASS2 - sliver1" />
     <MESSAGE value="CLASS2 - sliver2" />
@@ -626,6 +632,7 @@
     <MESSAGE value="BronzeIII - 8" />
     <MESSAGE value="알고리즘 기초1-2 - 골드" />
     <MESSAGE value="알고리즘 기초1-2 - 골드(s1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 기초1-2 - 골드(s1)" />
+    <MESSAGE value="알고리즘 기초1(201) -  3" />
+    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 기초1(201) -  3" />
   </component>
 </project>
