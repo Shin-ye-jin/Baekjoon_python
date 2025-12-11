@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="Bronze II - 1">
-      <change afterPath="$PROJECT_DIR$/Bronze II/1712.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bronze II/2587.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bronze II/2747.py" afterDir="false" />
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="Bronze II - 2">
+      <change afterPath="$PROJECT_DIR$/Bronze II/19532.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bronze II/25305.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bronze II/5585.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -111,6 +111,7 @@
     "Python.17298.executor": "Run",
     "Python.17413.executor": "Run",
     "Python.18108.executor": "Run",
+    "Python.19532.executor": "Run",
     "Python.1978.executor": "Run",
     "Python.2231.executor": "Run",
     "Python.24264.executor": "Run",
@@ -133,6 +134,7 @@
     "Python.2523.executor": "Run",
     "Python.2525.executor": "Run",
     "Python.25304.executor": "Run",
+    "Python.25305.executor": "Run",
     "Python.25314.executor": "Run",
     "Python.2562.executor": "Run",
     "Python.2566.executor": "Run",
@@ -174,6 +176,7 @@
     "Python.4153.executor": "Run",
     "Python.5073.executor": "Run",
     "Python.5086.executor": "Run",
+    "Python.5585.executor": "Run",
     "Python.5597.executor": "Run",
     "Python.5622.executor": "Run",
     "Python.8393.executor": "Run",
@@ -213,14 +216,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733825726539</updated>
-    </task>
-    <task id="LOCAL-00007" summary="5단계 -1">
-      <option name="closed" value="true" />
-      <created>1734349869359</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1734349869359</updated>
     </task>
     <task id="LOCAL-00008" summary="5단계 -2">
       <option name="closed" value="true" />
@@ -606,11 +601,18 @@
       <option name="project" value="LOCAL" />
       <updated>1764853575197</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Bronze II - 2">
+      <option name="closed" value="true" />
+      <created>1765363825067</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1765363825067</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="CLASS2 - sliver4" />
     <MESSAGE value="알고리즘기초1 - 1" />
     <MESSAGE value="알고리즘기초1 - 2" />
     <MESSAGE value="BronzeIII - 1" />
@@ -635,6 +637,7 @@
     <MESSAGE value="알고리즘 기초1( 201 )" />
     <MESSAGE value="Bronze III 1차 종료" />
     <MESSAGE value="Bronze II - 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bronze II - 1" />
+    <MESSAGE value="Bronze II - 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bronze II - 2" />
   </component>
 </project>
