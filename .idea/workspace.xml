@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="Bronze II - 5">
-      <change afterPath="$PROJECT_DIR$/Bronze II/1075.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bronze II/1076.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bronze II/1212.py" afterDir="false" />
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="Bronze II - 6">
+      <change afterPath="$PROJECT_DIR$/Bronze II/10996.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bronze II/1357.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bronze II/7567.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bronze II/1075.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze II/1075.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +57,7 @@
     "Python.10172.executor": "Run",
     "Python.10250.executor": "Run",
     "Python.10430.executor": "Run",
+    "Python.1075.executor": "Run",
     "Python.1076.executor": "Run",
     "Python.10798.executor": "Run",
     "Python.10799.executor": "Run",
@@ -83,6 +85,7 @@
     "Python.10989.executor": "Run",
     "Python.10991.executor": "Run",
     "Python.10992.executor": "Run",
+    "Python.10996.executor": "Run",
     "Python.10998.executor": "Run",
     "Python.1100.executor": "Run",
     "Python.11021.executor": "Run",
@@ -103,6 +106,7 @@
     "Python.1259.executor": "Run",
     "Python.1267.executor": "Run",
     "Python.1330.executor": "Run",
+    "Python.1357.executor": "Run",
     "Python.1406.executor": "Run",
     "Python.14215.executor": "Run",
     "Python.14681.executor": "Run",
@@ -186,6 +190,7 @@
     "Python.5585.executor": "Run",
     "Python.5597.executor": "Run",
     "Python.5622.executor": "Run",
+    "Python.7567.executor": "Run",
     "Python.8393.executor": "Run",
     "Python.8958.executor": "Run",
     "Python.9063.executor": "Run",
@@ -223,14 +228,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733825726539</updated>
-    </task>
-    <task id="LOCAL-00011" summary="2차원 배열 - 1">
-      <option name="closed" value="true" />
-      <created>1735479809914</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1735479809914</updated>
     </task>
     <task id="LOCAL-00012" summary="6단계 - 1">
       <option name="closed" value="true" />
@@ -616,11 +613,18 @@
       <option name="project" value="LOCAL" />
       <updated>1768809360887</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="Bronze II - 6">
+      <option name="closed" value="true" />
+      <created>1769617439813</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1769617439813</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BronzeIII - 수정" />
     <MESSAGE value="알고리즘기초1 - 3" />
     <MESSAGE value="BronzeIII - 2" />
     <MESSAGE value="BronzeIII - 3" />
@@ -645,6 +649,7 @@
     <MESSAGE value="Bronze II - 3" />
     <MESSAGE value="Bronze II - 4" />
     <MESSAGE value="Bronze II - 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bronze II - 5" />
+    <MESSAGE value="Bronze II - 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bronze II - 6" />
   </component>
 </project>
