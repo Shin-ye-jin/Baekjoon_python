@@ -1,13 +1,20 @@
 # 막대기
-n = int(input())
+# 왜 초창기에 했을때는 안된걸까?
+
+from sys import stdin
+
+n = int(stdin.readline().strip())
 matrix = []
-cnt = 1
+cnt,height = 0,0
 
 for i in range(n):
-    matrix.append(int(input()))
+    matrix.append(int(stdin.readline().strip()))
 
-for i in range(n-2,-1,-1):
-    if matrix[n-1] < matrix[i]:
+matrix.reverse()
+
+for i in matrix:
+    if i > height:
         cnt+=1
+        height = i
 
 print(cnt)
