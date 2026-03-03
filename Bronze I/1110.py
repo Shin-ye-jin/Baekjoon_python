@@ -5,3 +5,18 @@
 # 42 => 4+2=6 (4+2)
 # 새로운 수 26 (2+6)
 
+a = int(input())
+
+res = a
+cnt = 0
+while True:
+    x = a//10
+    y = a%10
+    z = (x + y)%10
+
+    a = y*10 + z
+    cnt += 1
+    if a == res:
+        break
+
+print(cnt)

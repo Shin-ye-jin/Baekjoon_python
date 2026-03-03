@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="Bronze II - 8">
-      <change afterPath="$PROJECT_DIR$/Bronze II/1919.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bronze II/2605.py" afterDir="false" />
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="Bronze I">
+      <change afterPath="$PROJECT_DIR$/Bronze I/1934.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bronze II/17608.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze II/17608.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bronze I/1110.py" beforeDir="false" afterPath="$PROJECT_DIR$/Bronze I/1110.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,6 +90,7 @@
     "Python.11021.executor": "Run",
     "Python.11022.executor": "Run",
     "Python.11050.executor": "Run",
+    "Python.1110.executor": "Run",
     "Python.11382.executor": "Run",
     "Python.1152.executor": "Run",
     "Python.1157.executor": "Run",
@@ -122,6 +122,7 @@
     "Python.17608.executor": "Run",
     "Python.18108.executor": "Run",
     "Python.1919.executor": "Run",
+    "Python.1934.executor": "Run",
     "Python.19532.executor": "Run",
     "Python.1977.executor": "Run",
     "Python.1978.executor": "Run",
@@ -231,22 +232,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733825726539</updated>
-    </task>
-    <task id="LOCAL-00014" summary="8단계">
-      <option name="closed" value="true" />
-      <created>1736073783278</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1736073783278</updated>
-    </task>
-    <task id="LOCAL-00015" summary="8단계 - 1">
-      <option name="closed" value="true" />
-      <created>1736166606882</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1736166606882</updated>
     </task>
     <task id="LOCAL-00016" summary="9단계">
       <option name="closed" value="true" />
@@ -624,12 +609,26 @@
       <option name="project" value="LOCAL" />
       <updated>1769876961621</updated>
     </task>
-    <option name="localTasksCounter" value="63" />
+    <task id="LOCAL-00063" summary="Bronze II - 9">
+      <option name="closed" value="true" />
+      <created>1769926918043</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1769926918043</updated>
+    </task>
+    <task id="LOCAL-00064" summary="Bronze I">
+      <option name="closed" value="true" />
+      <created>1769927569445</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1769927569445</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="BronzeIII - 3" />
-    <MESSAGE value="알고리즘기초1 - 4" />
     <MESSAGE value="알고리즘기초1-2 start" />
     <MESSAGE value="BronzeIII - 4" />
     <MESSAGE value="알고리즘기초1-2 -1" />
@@ -653,6 +652,8 @@
     <MESSAGE value="Bronze II - 6" />
     <MESSAGE value="Bronze II - 7" />
     <MESSAGE value="Bronze II - 8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bronze II - 8" />
+    <MESSAGE value="Bronze II - 9" />
+    <MESSAGE value="Bronze I" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bronze I" />
   </component>
 </project>
