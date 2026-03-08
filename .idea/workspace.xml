@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="알고리즘 기초1(201) - 4">
+    <list default="true" id="e3b56636-f88d-4ad0-86f7-0952d3ecdb44" name="Changes" comment="BronzeI - 3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,7 @@
     &quot;Python.10171.executor&quot;: &quot;Run&quot;,
     &quot;Python.10172.executor&quot;: &quot;Run&quot;,
     &quot;Python.10250.executor&quot;: &quot;Run&quot;,
+    &quot;Python.1037.executor&quot;: &quot;Run&quot;,
     &quot;Python.10430.executor&quot;: &quot;Run&quot;,
     &quot;Python.1075.executor&quot;: &quot;Run&quot;,
     &quot;Python.1076.executor&quot;: &quot;Run&quot;,
@@ -165,6 +166,7 @@
     &quot;Python.2743.executor&quot;: &quot;Run&quot;,
     &quot;Python.2745.executor&quot;: &quot;Run&quot;,
     &quot;Python.2747.executor&quot;: &quot;Run&quot;,
+    &quot;Python.2748.executor&quot;: &quot;Run&quot;,
     &quot;Python.2750.executor&quot;: &quot;Run&quot;,
     &quot;Python.2751.executor&quot;: &quot;Run&quot;,
     &quot;Python.2753.executor&quot;: &quot;Run&quot;,
@@ -230,14 +232,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1733825726539</updated>
-    </task>
-    <task id="LOCAL-00018" summary="10단계 -1">
-      <option name="closed" value="true" />
-      <created>1736946078791</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1736946078791</updated>
     </task>
     <task id="LOCAL-00019" summary="10단계 클리어">
       <option name="closed" value="true" />
@@ -623,11 +617,18 @@
       <option name="project" value="LOCAL" />
       <updated>1772539384176</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="BronzeI - 3">
+      <option name="closed" value="true" />
+      <created>1772886456651</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1772886456651</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="알고리즘기초1-2 -1" />
     <MESSAGE value="BronzeIII - 5" />
     <MESSAGE value="알고리즘기초1-2 - 1" />
     <MESSAGE value="BronzeIII - 6" />
@@ -652,6 +653,7 @@
     <MESSAGE value="Bronze I" />
     <MESSAGE value="Bronze I - 2" />
     <MESSAGE value="알고리즘 기초1(201) - 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="알고리즘 기초1(201) - 4" />
+    <MESSAGE value="BronzeI - 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="BronzeI - 3" />
   </component>
 </project>
